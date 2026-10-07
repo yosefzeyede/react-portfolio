@@ -1,7 +1,7 @@
 import React from "react";
 import inventory from "../image/HighValue.jpg";
 import learning from "../image/e-learning-icons-flat_1284-3950.avif";
-import web from "../image/1_j0gjLpN1aaHuRowTKgr6yQ.jpg";
+import student from "../image/student.jpg";
 function Project() {
   return (
     <>
@@ -63,9 +63,7 @@ function Project() {
                   courses and learning materials.
                 </p>
 
-                <p className="technologies">
-                  HTML | CSS | JavaScript | React | Node.js
-                </p>
+                <p className="technologies">HTML | CSS | JavaScript | PHP</p>
 
                 <div className="project-buttons">
                   <a
@@ -90,23 +88,22 @@ function Project() {
             </div>
 
             <div className="project-card">
-              <img src={web} alt="Web Project" />
+              <img src={student} alt="Web Project" />
 
               <div className="project-content">
-                <h3>Web Application</h3>
+                <h3>Student Registration System</h3>
 
                 <p>
-                  A responsive web application created to practice modern
-                  frontend development.
+                  A responsive web application designed to manage student
+                  registration, class and section assignments and student
+                  information efficiently.
                 </p>
 
-                <p className="technologies">
-                  HTML | CSS | JavaScript | Bootstrap
-                </p>
+                <p className="technologies"> CSS | React | Node.js | MySQL</p>
 
                 <div className="project-buttons">
                   <a
-                    href="https://github.com/yosefzeyede"
+                    href="https://github.com/yosefzeyede/Student-Registration"
                     className="btn"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -115,7 +112,7 @@ function Project() {
                   </a>
 
                   <a
-                    href="YOUR-WEB-APP-LIVE-DEMO-LINK"
+                    href="https://student-registration-frontend-beta.vercel.app/"
                     className="btn"
                     target="_blank"
                     rel="noopener noreferrer"
