@@ -1,18 +1,17 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.a935bfeb.css",
-    "main.js": "/react-portfolio/static/js/main.472081a4.js",
+    "main.js": "/react-portfolio/static/js/main.7ff90184.js",
     "static/media/logo.png": "/react-portfolio/static/media/logo.c259297125ac292885cf.png",
     "static/media/yosef.jpg": "/react-portfolio/static/media/yosef.8eb212570babf1808571.jpg",
-    "static/media/1_j0gjLpN1aaHuRowTKgr6yQ.jpg": "/react-portfolio/static/media/1_j0gjLpN1aaHuRowTKgr6yQ.617785df83b78cef6fde.jpg",
     "static/media/HighValue.jpg": "/react-portfolio/static/media/HighValue.32310e059c9c03097fe5.jpg",
     "static/media/e-learning-icons-flat_1284-3950.avif": "/react-portfolio/static/media/e-learning-icons-flat_1284-3950.b6785f2ba64ef12c5321.avif",
     "index.html": "/react-portfolio/index.html",
     "main.a935bfeb.css.map": "/react-portfolio/static/css/main.a935bfeb.css.map",
-    "main.472081a4.js.map": "/react-portfolio/static/js/main.472081a4.js.map"
+    "main.7ff90184.js.map": "/react-portfolio/static/js/main.7ff90184.js.map"
   },
   "entrypoints": [
     "static/css/main.a935bfeb.css",
-    "static/js/main.472081a4.js"
+    "static/js/main.7ff90184.js"
   ]
 }
